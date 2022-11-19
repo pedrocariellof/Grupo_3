@@ -1,4 +1,4 @@
-from library_sm import *
+from modulo_de_alteracao import *
 from tkinter import *
 
 
